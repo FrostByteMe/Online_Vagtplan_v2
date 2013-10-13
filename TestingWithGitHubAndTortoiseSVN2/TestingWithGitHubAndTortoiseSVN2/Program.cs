@@ -10,6 +10,8 @@ namespace TestingWithGitHubAndTortoiseSVN2
         static void Main( string[] args )
         {
             Console.WriteLine( "Integration with Github and TortoiseSVN." );
+
+            Console.WriteLine( "Secondary test initiated." );
         }
     }
 }
